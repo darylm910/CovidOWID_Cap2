@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.pyc
+
+data/raw/
+data/interim/owid_selected_variables.csv
